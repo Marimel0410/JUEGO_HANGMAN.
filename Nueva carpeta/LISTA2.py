@@ -1,0 +1,7 @@
+Palabra = ["work", "shop", "interesting", "moon","dog","apple", "four", "pink","hello", "give", "why", "where", "come","run","toy","enjoy", "mouse", "hope", "drink", "home", "follow", "flower", "what", "location", "Status", "none", "couple", "understand", "three", "force","Sky", "alone", "moment", "wolves", "Eyes", "blue", "heavy"
+"one", "love", "lose", "sweet", "divine","phone" ,"money","true", "choise", "welcome", "back", "happy", "Sad", "cat", "full", "people", "person", "drunk", "lion", "ice", "share", "paradice", "monckey", "control", "ride", "read", "make", "made", "jump", "you", "be", "two","five", "energic", "say", "boy", "friend", "up","hola", "dinero", "amor", "ninguno", "brindar", "espacio", "recoger", "interceptar", "moneda", "distrito","marea", "oceano", "clavo", "telefono","energia", "retorno", "horno","tomate","musica","mensaje", "consola","momento", "estraño","leyenda", "pelicula", "gato", "perro", "referencia","cerrado", "fatal", "sal", "mercado", "electrodomestico", 
+"saltar","llorar","alejar", "palabra", "reto", "servior","computadora", "queso", "jamon","cerdo","negativo", "social", "comercio","matriz", "preguntar", "chiste", 
+"helado", "trigo", "tigre", "piña", "corral", "finca","marinada", "cangrejo", "sopa", "fijo", "misa","mesa","esntra","salida","raton","jirafa","tijera","puente","fisica","teclado","silla","robo","inteligencia","gotera","instante","mejor","varon","homenaje","seguriad","ambiente","estudiar", "doctor", "medicina"
+"automovil","repote","fuego","faja","ferrocaril", "kilometro","dado"]
+
+
